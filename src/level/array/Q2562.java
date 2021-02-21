@@ -18,8 +18,8 @@ public class Q2562 {
 				index = i+1;
 			}
 		}
-		System.out.println(index);
-			
 		System.out.println(max);
+		System.out.println(index);
+		
 	}
 }
